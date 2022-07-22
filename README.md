@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-I am a full stack software engineer with a background in strategy/operations and finance. I am enthusiastic about learning new technologies, and building engaging user interfaces. I am also adaptive to different team styles.
+I am a full stack software engineer with a background in strategy/operations and finance. I am enthusiastic about learning new technologies, and building engaging products. I am also adaptive to different team styles from my diverse professional experiences.
 </p>
 <p align='center'>
 My previous work emphasized identifying strategic priorities and managing multiple projects, which makes me a more empathetic, product-focused developer. I am actively exploring how my skillsets can intersect to contribute to modern-day technologies. 
